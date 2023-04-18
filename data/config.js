@@ -1,7 +1,7 @@
 export const meta = {
-  title: 'Anil Dharni - Software Developer || Devops',
+  title: 'Anil Dharni - Software Developer, Devops',
   description:
-    "Hey there! I'm Anil, and I'm a software developer with a knack for DevOps. When I'm not lost in lines of code, you can find me hiking through the mountains or guilt-lessly browsing reddit. I'm always on the hunt for new challenges and adventures, both in my personal and professional life. So let's connect and see where our paths might take us!"
+    "I am Anil, and I am a software developer with Devops. let us connect. My primary expertise is fullstack with experience in Java, React and AWS."
 };
 
 export const hero = {
