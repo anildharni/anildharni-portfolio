@@ -5,23 +5,23 @@ export const meta = {
 };
 
 export const hero = {
-  title: 'Anil Dharni - Software Developer || Devops',
+  title: 'Anil Dharni - Software Developer',
   desc: "Hey there! I'm Anil, and I'm a software developer with a knack for DevOps. When I'm not lost in lines of code, you can find me hiking through the mountains or guilt-lessly browsing reddit. I'm always on the hunt for new challenges and adventures, both in my personal and professional life. So let's connect and see where our paths might take us!"
 };
 
 export const experience = {
   title: 'My Experience',
-  desc: 'In my 7+ years of experience, I have donned many hats in my career, from Software Developer to DevOps Engineer, and now I am proudly flexing my coding muscles as a Senior Software Engineer at Equifax. In my previous role, I was busy creating innovative software solutions for the Government of India for four exciting years. My go-to tech stack includes Java, React, and AWS, but now and then, I picked up other frameworks too. I am always on the lookout to learn new things and keep up with the latest trends in the industry.',
+  desc: 'In my 7+ years of experience, I have donned many hats in my career but now I am proudly flexing my coding muscles as a Senior Software Engineer at Gladpower. In my previous role, I was busy creating innovative software solutions for the Government of India for five exciting years. My go-to tech stack includes Node, React, and AWS, but now and then, I picked up other frameworks too. I am always on the lookout to learn new things and keep up with the latest trends in the industry.',
   experience: [
     {
-      title: 'Equifax',
+      title: 'Gladpower LLC',
       description: 'Senior Software Engineer',
-      link: 'Apr 2022 to Present'
+      link: 'Apr 2023 to Present'
     },
     {
       title: 'Government of India',
-      description: 'Fullstack Developer || Devops Engineer',
-      link: 'Mar 2018 to Apr 2022'
+      description: 'Fullstack Developer',
+      link: 'Apr 2018 to Mar 2023'
     },
     {
       title: 'Awign Enterprises',
@@ -83,19 +83,18 @@ export const projects = {
 export const stack = {
   title: 'My Stack',
   stack: [
-    'Java',
+    'TypeScript',
     'JavaScript',
     'Python',
-    'Solidity',
+    'Express',
     'React',
     'Java',
     'AWS services',
-    'Azure Services',
     'Spring Boot',
     'Redis',
+    'Apache Kafka',
     'Micro Services',
     'Node.js',
-    'Express',
     'Mongoose ORM',
     'Git',
     'Docker',
@@ -105,13 +104,11 @@ export const stack = {
     'PostgreSQL',
     'Django',
     'Flask',
-    'Spring MVC',
     'Next.js',
     'Jest',
     'Mocha',
     'Chai',
-    'JUnit',
-    'Apache Kafka'
+    'JUnit'
   ]
 };
 

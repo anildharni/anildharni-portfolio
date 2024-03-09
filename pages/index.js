@@ -12,7 +12,7 @@ export default function Index() {
       <Head>
         <title>{meta.title}</title>
       </Head>
-      <div className="p-6 lg:p-20 max-w-4xl m-auto w-full">
+      <div className="custom-container">
         <Hero />
         <div className="p-0 space-y-10">
           <Experience />
