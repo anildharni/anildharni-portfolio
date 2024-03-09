@@ -8,6 +8,7 @@ html,
 body {
   @apply p-0 m-0 min-h-screen w-full font-[Be_Vietnam_Pro,-apple-system,BlinkMacSystemFont,Segoe_UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira_Sans,Droid_Sans,Helvetica_Neue,sans-serif] dark:bg-dark bg-white text-lightText transition-colors duration-500;
   line-height: 1.8rem;
+  width: 111%;
 }
 
 h1,
@@ -59,7 +60,7 @@ ul {
 @media (max-width: 640px) {
   .landingSectionTitle::before {
     left: 0%;
-    width: 90vw; /* Adjust the width on smaller screens */
+    width: 120%; /* Adjust the width on smaller screens */
   }
 }
 
